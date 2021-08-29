@@ -1,5 +1,6 @@
-REST API for (https://myanimelist.net/ "MyAnimeList.net")
+REST API for [MyAnimeList.net](https://myanimelist.net/ "MyAnimeList.net")
 
-Jikan is a REST API for MyAnimeList.net. It scrapes the website to satisfy the need for an API
+Created a search operation of anime database by fetching data from Jikan api :sunglasses:
+Jikan is a REST API for MyAnimeList.net. It scrapes the website to satisfy the need for an API.
 
-Created a search operation of anime database using Jikan api :rocket:
+Languages used :man_technologist: -> HTML, CSS, Javascript
